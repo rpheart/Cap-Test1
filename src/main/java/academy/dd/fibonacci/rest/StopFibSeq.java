@@ -4,8 +4,6 @@ import static com.jayway.restassured.RestAssured.given;
 
 import org.junit.Test;
 
-import academy.dd.fibonacci.jetty.EmbeddedJetty;
-
 
 public class StopFibSeq {
 

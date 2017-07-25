@@ -1,8 +1,8 @@
 package academy.dd.fibonacci.json;
 
-import com.fasterxml.jackson.databind.ObjectMapper;
-
 import java.io.IOException;
+
+import com.fasterxml.jackson.databind.ObjectMapper;
 
 /**
  * Created by stevewalton on 21/07/2017.
